@@ -6,6 +6,7 @@ def print_hi(name):
 
 if __name__ == '__main__':
    # some additional feature for feature-1 branch
+   # this line should cause a conflict
    # some new changes in main
     name=input('Enter your Full name')
     print_hi(name)
