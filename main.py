@@ -1,10 +1,10 @@
 def print_hi(name):
 
-    print(f'Hi, {name}')
+    print(f'Hi, {name}')  # Press F9 to toggle the breakpoint.
 
+
+# Press the green button in the gutter to run the script.
 if __name__ == '__main__':
-    name=input("Enter your name:")
-    print(f'Hello, {name}!')
-
+    print_hi('Yoseph Negash')
 
 
